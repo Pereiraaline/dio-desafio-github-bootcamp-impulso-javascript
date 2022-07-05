@@ -1,0 +1,21 @@
+BOOTCAMP DIO EVOLUTION JAVASCRIPT
+
+
+PENSAMENTO COMPUTACIONAL 
+
+PILARES DO PENSAMENTO COMPUTACIONAL:
+
+1 - DECOMPOSIÇÃO: transformar o problema em pequenos problemas para facilitar sua solução (pesquisa binaria é mais eficiente que varrer o vetor = é decorrente da decomposição)
+
+2 - RECONHECIMENTO DE PADRÕES: identificar padrões e tendências => similarididade e diferença entre problemas
+
+3 - ABSTRAÇÃO: extrapolar o conceito do problema para uma forma generalista => retirar do específico para o generalista (ex: design adaptado para as diferentes telas)
+
+4- DESING DE ALGORITMOS: define o passo a passo para a solução do problema => input - operador - output (sequencia para solução do problema)
+
+PROCESSO CONTÍNUO => é preciso rever constantemente para aperfeiçoar a solução, trata-se de um ciclo
+
+ANÁLISE + ABSTRAÇÃO + AUTOMATIZAÇÃO 
+
+RACIOCINIO LOGICO => AJUDA A IDENTIFICAR PADROES DE MANEIRA MAIS FÁCIL
+

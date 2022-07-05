@@ -1,0 +1,5 @@
+Testando comandos do Git
+git init (inicia o git dentro do diretório selecionado)
+git add [nomearquivo.extensao] (adiciona o arquivos modificados na area de staging )
+git status (verifica alteracoes antes de salvar)
+git commit -m [nome da alteracao] (salva as ateracoes realizadas e adiciona no historico)
