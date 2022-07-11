@@ -1,0 +1,14 @@
+# INTRODUÇÃO AO FLEXBOX
+
+Modelo de layout unidimensional
+
+*** Flex Container ***
+
+- tag que envolve os itens 
+- aplica-se propriedade "display-flex"
+- transforma todos os seus filhos em flex itens
+- Flex-item => elementos filhos diretos do flex-container
+- PROPRIEDADES:
+		- display-flex: 
+
+
